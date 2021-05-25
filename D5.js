@@ -16,7 +16,7 @@ function areaRect(l1, l2)
 }
     console.log("Area of the Rectangle:", areaRect(4, 2))
 
-console.log("hello ")
+
 
 /* EXERCISE 2
 Write a function "crazySum" which receives two integers. It should return the sum of those two values, but if the two values are the same then it should return their sum multiplied by 3.
