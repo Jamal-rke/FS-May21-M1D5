@@ -27,7 +27,7 @@ Write a function "crazyDiff" that computes the absolute difference between a giv
 It should return triple their absolute difference if the given number is greater than 19.
 */
 
-console.log("First time pushing on Github")
+
 
 /* EXERCISE 4
 Write a function "boundary" which accept an integer n and returns true if n is within 20 and 100 (included) or if it's equal to 400.
